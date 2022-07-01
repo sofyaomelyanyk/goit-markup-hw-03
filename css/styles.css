@@ -178,10 +178,14 @@ body{
    letter-spacing: 0.06em;
    cursor: pointer; 
 }
+.btn-list{
+   margin-bottom: 34px;
+}
 
 .btn{
    padding: 6px 22px;  
 }
+
 .button:hover,
 .button:focus{
    background-color: var(--background-color);
@@ -265,12 +269,15 @@ body{
    font-size: 18px;
    line-height: 2;
    letter-spacing: 0.06em;
+   margin-top: 20px;
+   margin-bottom: 4px;
 }
 
 .work-list .text{
    color: var(--secondary-color);
    font-size: 16px;
    line-height: 1.9;
+   margin-bottom: 20px;
 }
 
 
@@ -295,7 +302,6 @@ body{
 .address .link{
    color: var(--primary-white-color);
    line-height: 1.7;
-   margin-bottom: 9px;
 }
 
 .address-list{
