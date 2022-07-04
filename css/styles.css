@@ -77,15 +77,14 @@ body{
 }
 
 .section{
-   margin-bottom: 94px;
-   margin-top: 94px;
+   padding-bottom: 94px;
+   padding-top: 94px;
 }
 
-.padding{
-   
-   padding-top: 94px;
-   padding-bottom: 94px;
+.no-padding{
+   padding-top: 0;
 }
+
 
 
 /* header */
