@@ -66,6 +66,7 @@ address {
    --bgc-accent:#2F303A;
    --background-color: #F5F4FA;
    --border-color: #EEEEEE;
+   --border-color-header: #ECECEC;
 }
 
 
@@ -99,9 +100,14 @@ body{
 
 /* header */
 
+.header{
+   border-bottom: 1px solid var(--border-color-header);
+}
+
 .main-block{
    display: flex;
    align-items: center;
+   
 }
 /*Логотип*/
 
