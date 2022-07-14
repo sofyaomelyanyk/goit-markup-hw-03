@@ -198,17 +198,6 @@ body{
    
 }
 
-/* .qwe{
-   height: 600px;
-   outline: 1px solid black;
-   max-width: 1600px;
-   margin-left: auto;
-   margin-right: auto;
-   background-image: linear-gradient(right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/images-page1/img8.jpg);
-   background-repeat: no-repeat;
-   background-position: center;
-   background-size: cover;
-} */
 
 .hero{   
    padding-top: 200px;
